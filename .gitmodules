@@ -1,0 +1,6 @@
+[submodule "lib/Dropbox-Uploader"]
+	path = lib/Dropbox-Uploader
+	url = https://github.com/andreafabrizi/Dropbox-Uploader.git
+[submodule "lib/spyc"]
+	path = lib/spyc
+	url = https://github.com/mustangostang/spyc.git
